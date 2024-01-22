@@ -1,0 +1,9 @@
+1.Hi Abdurabu
+2.Hi Ahmed
+3.Hi Majid
+4.Hi Mohammed
+5.Hi Saleh
+6.Hi Hussain
+
+Welcome to my file appending in this we can add string
+ to file without remove the previous
