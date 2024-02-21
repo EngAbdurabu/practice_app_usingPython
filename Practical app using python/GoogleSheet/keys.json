@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "applied-abbey-412008",
+  "private_key_id": "f728918dce428cbe58c08ef17e989d3a94e8fe21",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD1HxuiRLdIZPsm\nOlS1HQmW1rQajUem4tx+7ge6tqHhTp7gUxhgvZeiaWpV1jOlZo1xGIKx7zupdtl9\n1OFrCFE3npuPIfOfXhJNmj5tZHeeaxnV0aKRdpQddpo/88cBV1iDmWUJlDAg7Zzg\nLKAacX69+rW7UB5TmKM/xwCLc2CM/nqws/oKdWj96T/OzL7KPBKF81KB/pidKQQ9\n6aroTPPffCcKbIaMSBP7srNYT1b9LT4DZEBP4hlHkdmV57hKfjfN7sPT5pBm00xF\nk6Lo2e9S/7Jyb8afMmOoqn0JnmE6AzIy0RvgOVxzOc/hj1ycYAfxPk5I1OZRvf93\nj0jOF8XVAgMBAAECggEAMghcep2uD4/VF7N2UNWRfIFsl7LYuj66JQpu93SJzFRg\n54buheiNB/CebNDhD9TD8B7BppIfSnLg5+dI77Dt6v1r4SZb9N6du8tNDMUiCWrx\nBgzZMvnSN8VarM0UhLiQb6Qi1Haz8DSv/a3+LAeYiCyhZY9v8T5JrB3xhYVSYtS0\ncMNYTRvvEZ5Hyks0K1V93KJdbaE3pW2KBTxYhZoGvlgoVLUgnZZItqjPHYKV0Jx9\nHko8J0nuARDwmYAdlFSpPCbPlpUfb6FwB84UFA8NtcT+/VqcpuUL161jSudPTdCj\nsyGTbqFZ68BsRRUnlhUCQeLk6pDFHlJW1bKIEtuCrQKBgQD7dbAaFrCTBQpHcJCD\nh/SZf724sohYApPkpsDfsZcnbe2Au2PW4tGApPvscEqoB/VQ8nJhBpz7uW5Ltue9\nfGmhH3cajBwp8DSQRXqxKZmRPHUDqlrHosEPmgFBGqJ7Pen3Vq+wAj4/i3LyQCxo\n2qmPzHpgdMO388qEf2IsvWZTKwKBgQD5jB+L0Nuf/oxO6k0tpFhn0UCG7AWHOjQR\nxxJ7/Hb7uY3Bo7BNx67VYfnRwEaa9KN2vo1HJ1GbRLXFDgGzVnLKc5mijkKBeIlE\nzvhHdeVCV6ImU2PmLKfHcQXDfywVCoKSMBmQdCfYbhhaINBY80lD5pXUuwW5UkTA\n6mjSjSHK/wKBgEfJ44qvK53tdG/MzRUf/U7NT0apgY9OvRYsHSg/tR2GnqV/2hMB\nEjqd32Yy8L1j+D8x2EGm965N1BU9lI9eM3HSX9huY6P9daQykcJ+U99I2UdAnUYd\nSuy/VNhXWEfC90arsuCW41qU3y4V8BfHRV1OTSm4bB/aM9j73PVU5R+dAoGBAJ9l\nPn0rIi3XBL4fcL63m/RsN2A2/+z5Y2r7kjX58/Ij+oT2TlXQNz96/nxY6YBuxL7D\nRjBtz/VydPxyTunDTT09i6PGZHqYiG2YGgRjLNYsbZk3aLcMTPramYjfAURLW02P\nRbT8TLs0z386OHqoo2KotYmVEDnob5wd3mim1y/3AoGAZQHcwJqRd3qzMEsmqvK0\nQmNnH5ad97wTt3Psx/eYLD23QX6K61R1mTop/W51P03WHmmLxVrq0kxghZm9fXb6\n7CrzTeKhrYkbCM2ielZuiALIwuTAzw99CItdbSJoNsFtF89u0VY1KSv4nP1JkgRv\nVmeDdU/Ehf6QxR0JsIygHMo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "abumjaid@applied-abbey-412008.iam.gserviceaccount.com",
+  "client_id": "101613983808302900871",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/abumjaid%40applied-abbey-412008.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
