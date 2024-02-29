@@ -5,7 +5,7 @@ base_url = "https://api.openweathermap.org/data/2.5/weather?"
 # section two
 city_name = input("Enter the city name: ")
 # section three
-API_key = "ae867996884cf6a0e1c046c763e8ad21"
+API_key = ""
 
 # complate url
 complate_url = base_url + "q="+ city_name+ "&units=metric" + "&appid=" + API_key
